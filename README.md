@@ -66,4 +66,4 @@ Hello Developer
 
 ```
 ## Example Output with Highlighted Cursor
-![](images/sample_output.PNG)
+![](sample_output.PNG)
