@@ -1,6 +1,6 @@
 # CLI Text Editing Engine (Made in 2025)
 
-An interactive command-line text editor in Python that replicates the core functionality and navigation of the classic Vim editor. The tool features constant state management, allowing users to navigate text, perform in-line string modification (text insertions, appends, and deletions), and toggle a visual terminal cursor rendered via ANSI escape codes. I also implemented an undo and command-repetition system by managing history stacks for both the text content and cursor states
+An interactive command-line text editor in Python that replicates the core functionality and navigation of the classic Vim editor. The tool features constant state management, allowing users to navigate text, perform in-line string modification (text insertions, appends, and deletions), and toggle a visual terminal cursor rendered via ANSI escape codes. I also implemented an undo and command-repetition system by managing history stacks for both the text content and cursor states.
 
 ## Features
 
