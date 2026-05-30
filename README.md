@@ -18,7 +18,7 @@ python text_engine.py
 
 ```
 
-## ⌨️ Command Reference
+## Command List
 
 ### Navigation
 
